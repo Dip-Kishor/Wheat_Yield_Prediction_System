@@ -1,0 +1,9 @@
+[submodule "Backend_Code"]
+	path = Backend_Code
+	url = https://github.com/Dip-Kishor/Wheat_Yield_Prediction_Backend.git
+[submodule "ML_Code"]
+	path = ML_Code
+	url = https://github.com/surakshya-adhikari/Wheat_Yield_Prediction_MLCode.git
+[submodule "Frontend_Code"]
+	path = Frontend_Code
+	url = https://github.com/prajwal000/wheatyeildpredictionfrontend.git
